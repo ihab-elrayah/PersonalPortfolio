@@ -1,5 +1,3 @@
-# Portfolio1
+# Personal Porftfolio
 
-demo link: https://ihab-dev.netlify.app/
-
-website coming soon!
+Demo Link: https://ihab-personal-portfolio.netlify.app/
